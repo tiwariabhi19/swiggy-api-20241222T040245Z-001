@@ -2,9 +2,9 @@
   "name": "swiggy-api",
   "version": "1.0.0",
   "description": "backend project description",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
